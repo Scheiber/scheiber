@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Jon 👋
+- 🌱 I’m currently learning JavaScript
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: @scheiber on Twitter
 
 <!--
 **Scheiber/scheiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
