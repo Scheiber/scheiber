@@ -1,4 +1,4 @@
-### Hi there, I'm Jon 👋
+### Hi there, I'm Jonathan 👋
 - 🌱 I’m currently learning JavaScript.
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me: [@scheiber](https://twitter.com/scheiber) on Twitter.
