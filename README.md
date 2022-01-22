@@ -1,5 +1,7 @@
 ### Hi there, I'm Jonathan 👋
-- 🌱 I’m currently learning JavaScript.
+- 💻 I'm a full-stack developer and fellow at [Pursuit](https://www.pursuit.org/). 
+- 🌱 I’m currently learning JavaScript and Python.
+- ☂️ My background is in IT and customer service.
 - 😄 Pronouns: he/him/his.
 - 📫 How to reach me: [@scheiber](https://twitter.com/scheiber) on Twitter.
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
