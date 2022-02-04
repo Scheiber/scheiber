@@ -6,6 +6,8 @@
 - 📫 How to reach me: [@scheiber](https://twitter.com/scheiber) on Twitter.
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
 
+[![CodeWars](https://www.codewars.com/users/Scheiber/badges/large)](https://www.codewars.com/users/Scheiber)
+
 <!--
 **Scheiber/scheiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
