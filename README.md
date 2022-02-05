@@ -1,9 +1,13 @@
-### Hi there, I'm Jonathan 👋
+### 👋🏻 Hi there, I'm Jonathan
 - 💻 I'm a full-stack developer and fellow at [Pursuit](https://www.pursuit.org/). 
 - 🌱 I’m currently learning JavaScript and Python.
 - ☂️ My background is in IT and customer service.
-- 😄 Pronouns: he/him/his.
-- 📫 How to reach me: [@scheiber](https://twitter.com/scheiber) on Twitter.
+- 👨‍💻 Pronouns: he/him/his.
+- 🪁 My hobbies include reading and kite-flying.
+- 🔥 I'm a hot sauce connoisseur. 
+### 📬 How to reach me:
+- 💼 [Connect with me](https://www.linkedin.com/in/jonscheiber/) on LinkedIn.
+- 🐦 [Follow me](https://twitter.com/scheiber) on Twitter.
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
 
 [![CodeWars](https://www.codewars.com/users/Scheiber/badges/large)](https://www.codewars.com/users/Scheiber)
