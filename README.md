@@ -1,6 +1,6 @@
 ### 👋🏻 Hi there, I'm Jonathan
 
-- 💻 I'm a full-stack developer and fellow at [Pursuit](https://www.pursuit.org/).
+- 💻 I'm a full-stack web developer and fellow at [Pursuit](https://www.pursuit.org/).
 - 🌱 I’m currently learning JavaScript and React.
 - 💾 I'm interested in user experience (UX) design, project management, and accessibility.
 - ☂️ My background is in IT and customer service.
