@@ -8,6 +8,10 @@
 - 🪁 My hobbies include reading and kite-flying.
 - 🔥 I'm a hot sauce connoisseur.
 
+### 🛫 Projects:
+- [Allocate](https://allocate.netlify.app/): Full-stack budgeting web app with a [React frontend](https://github.com/scheiber/allocate) and a [Express backend](https://github.com/Scheiber/allocate-backend).
+- [9Tube](https://9tube.netlify.app/): [React-based YouTube web client](https://github.com/JC-MT/YouTubeClone.9) that allows for viewing and commenting on videos and utilizes the [YouTube API](https://developers.google.com/youtube/v3).
+
 ### 📬 How to reach me:
 
 - 💼 [Connect with me](https://www.linkedin.com/in/jonscheiber/) on LinkedIn.
@@ -15,18 +19,3 @@
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
 
 [![CodeWars](https://www.codewars.com/users/Scheiber/badges/large)](https://www.codewars.com/users/Scheiber)
-
-<!--
-**Scheiber/scheiber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
