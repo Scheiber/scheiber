@@ -2,7 +2,7 @@
 
 - 💻 I'm a full-stack web developer and fellow at [Pursuit](https://www.pursuit.org/).
 - 🌱 I’m currently learning JavaScript and React.
-- 💾 I'm interested in user experience (UX) design, project management, and accessibility.
+- 💾 I'm interested in user experience (UX) design, cybersecurity, and accessibility.
 - ☂️ My background is in IT and customer service.
 - 👨‍💻 Pronouns: he/him/his.
 - 🪁 My hobbies include reading and kite-flying.
