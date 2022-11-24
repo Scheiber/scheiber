@@ -18,7 +18,7 @@
 ### 📬 How to reach me:
 
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/jonscheiber/).
-- 🐦 Follow me on [Twitter](https://twitter.com/scheiber).
+- 📧 Email me at [jonathan@scheiber.dev](mailto:jonathan@scheiber.dev).
 - 🌐 Visit my website at [scheiber.dev](https://scheiber.dev/).
 - 🏕️ See my coding journey on [Codewars](https://www.codewars.com/users/Scheiber) and [Exercism](https://exercism.org/profiles/Scheiber).
 
