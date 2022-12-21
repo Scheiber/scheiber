@@ -7,11 +7,11 @@
 - 💾 My background is in IT and customer service.
 - 👨‍💻 My pronouns are he/him/his.
 - 🪁 My hobbies include reading and kite-flying.
-- 🔥 I'm a hot sauce connoisseur.
+- 🌶️ I'm a hot sauce connoisseur.
 
 ### 🛫 Projects:
 
-- 🥃 [Worth a Shot](https://washot.netlify.app/): Full-stack bar and nightclub finder web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/capstone-worth-a-shot).
+- 🥃 [Worth a Shot](https://washot.netlify.app/): Full-stack bar and nightclub finder web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/worthashot).
 - 🔥 [SauceSource](https://saucesource.netlify.app/): Full-stack hot sauce reference web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/saucesource).
 - 💰 [Allocate](https://allocate.netlify.app/): Full-stack budgeting web app with a [React front-end](https://github.com/scheiber/allocate) and an [Express back-end](https://github.com/Scheiber/allocate-backend).
 - 📺 [9Tube](https://9tube.netlify.app/): [React-based YouTube web client](https://github.com/JC-MT/YouTubeClone.9) that allows for viewing and commenting on videos and utilizes the [YouTube API](https://developers.google.com/youtube/v3).
