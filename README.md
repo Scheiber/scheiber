@@ -1,6 +1,7 @@
 ### 👋🏻 Hi there, I'm Jonathan
 
-- 💻 I'm a full-stack web developer and fellow at [Pursuit](https://www.pursuit.org/).
+- 💻 I'm a full-stack web developer
+- 🎓 I completed the full-stack web development fellowship at [Pursuit](https://www.pursuit.org/).
 - 🌱 I’m currently learning JavaScript and React.
 - 💡 I'm interested in user experience (UX) design, cybersecurity, and accessibility.
 - 🏆 I'm a [CompTIA A+ certified IT professional](https://www.certmetrics.com/comptia/public/verification.aspx?code=7LZZ1KHEECFQSN0D).
@@ -11,9 +12,9 @@
 
 ### 🛫 Projects:
 
-- 🥃 [Worth a Shot](https://washot.netlify.app/): Full-stack bar and nightclub finder web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/worthashot).
-- 🔥 [SauceSource](https://saucesource.netlify.app/): Full-stack hot sauce reference web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/saucesource).
-- 💰 [Allocate](https://allocate.netlify.app/): Full-stack budgeting web app with a [React front-end](https://github.com/scheiber/allocate) and an [Express back-end](https://github.com/Scheiber/allocate-backend).
+- 🥃 [Worth a Shot](https://worthashot.scheiber.dev/): Full-stack bar and nightclub finder web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/worthashot).
+- 🔥 [SauceSource](https://saucesource.scheiber.dev/): Full-stack hot sauce reference web app with a [React front-end, an Express backend, and a PostgreSQL database](https://github.com/Scheiber/saucesource).
+- 💰 [Allocate](https://allocate.scheiber.dev/): Full-stack budgeting web app with a [React front-end](https://github.com/scheiber/allocate) and an [Express back-end](https://github.com/Scheiber/allocate-backend).
 - 📺 [9Tube](https://9tube.netlify.app/): [React-based YouTube web client](https://github.com/JC-MT/YouTubeClone.9) that allows for viewing and commenting on videos and utilizes the [YouTube API](https://developers.google.com/youtube/v3).
 
 ### 📬 How to reach me:
