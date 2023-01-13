@@ -1,7 +1,7 @@
 ### 👋🏻 Hi there, I'm Jonathan
 
-- 💻 I'm a full-stack web developer
-- 🎓 I completed the full-stack web development fellowship at [Pursuit](https://www.pursuit.org/).
+- 💻 I'm a full-stack web developer.
+- 🎓 I completed the [Pursuit Fellowship](https://www.pursuit.org/fellowship).
 - 🌱 I’m currently learning JavaScript and React.
 - 💡 I'm interested in user experience (UX) design, cybersecurity, and accessibility.
 - 🏆 I'm a [CompTIA A+ certified IT professional](https://www.certmetrics.com/comptia/public/verification.aspx?code=7LZZ1KHEECFQSN0D).
